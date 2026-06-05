@@ -21,11 +21,11 @@ Código simples de manter.
 
 # Por isso eles criaram uma linguagem que mistura características de:
 
-Linguagem	O que Go herdou,
-C	Simplicidade e velocidade,
-Python	Facilidade de leitura,
-Java	Organização e tipagem,
-Erlang	Concorrência.
+Linguagems-	O que Go herdou,
+C-      	Simplicidade e velocidade,
+Python- 	Facilidade de leitura,
+Java-   	Organização e tipagem,
+Erlang- 	Concorrência.
 
 Onde Go é utilizado atualmente?
 
